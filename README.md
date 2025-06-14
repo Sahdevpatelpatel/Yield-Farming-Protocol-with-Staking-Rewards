@@ -4,7 +4,7 @@
 A smart contract that allows users to stake ERC20 token and earn rewards in another ERC20 token over time and based on the number of blocks passed and the amount staked.
 
 ## Project Vision
-To enable decentralized yield farming where users can securely stake tokens and receive proportional rewards without relying on centralized entities.
+To enable decentralized yields farming where users can securely stake tokens and receive proportional rewards without any relying on centralized entities.
 
 ## Key Features
 - Stake and withdraw ERC20 tokens
