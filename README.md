@@ -1,7 +1,7 @@
 # Yield Farming Protocol with Staking Reward
 
 ## Projects Descriptions
-A smarts contract that allows users to stakes ERC20 tokens and earns rewards in another ERC20 token over times and based on the number of the blocks passed and the amounts staked.
+A smarts contract that allows users to stakes ERC20 token and earns rewards in another ERC20 token over times and based on the number of the blocks passed and the amounts staked.
 
 ## Project Vision
 To enable and decentralized yields farming where users can securely stake tokens and receive proportional rewards without any relying on centralized entities.
